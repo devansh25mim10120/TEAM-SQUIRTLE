@@ -1,7 +1,8 @@
 # TEAM-SQUIRTLE
-# Devansh Singhal
-# Atharv Sharma
-# Ashutosh Pandey
+**Team Members**
+Devansh Singhal
+Atharv Sharma
+Ashutosh Pandey
 # 📚 FIND A MATE – One-Tap Study Group Platform
 
 ## 🚀 Overview
