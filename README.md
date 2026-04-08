@@ -1,8 +1,5 @@
 # TEAM-SQUIRTLE
-**Team Members**
-Devansh Singhal
-Atharv Sharma
-Ashutosh Pandey
+
 # 📚 FIND A MATE – One-Tap Study Group Platform
 
 ## 🚀 Overview
@@ -49,11 +46,7 @@ FIND A MATE enables instant study group formation with real-time interaction, an
 
 * Location-based session discovery 📍
 * Media sharing (text, images, documents)
-* AI chatbot for:
 
-  * Answering topic-related questions
-  * Summarizing discussions
-  * Context-aware assistance
 
 ---
 
@@ -71,8 +64,8 @@ FIND A MATE enables instant study group formation with real-time interaction, an
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML, CSS, JavaScript
-* **Backend:** Firebase (Realtime Database / Firestore)
-* **Storage:** Firebase Storage (for images & documents)
+* **Backend:** Replit Database
+* **Storage:** Replit Database
 * **Optional AI:** OpenAI API (for chatbot functionality)
 
 ---
@@ -101,27 +94,24 @@ To create a simple, fast, and effective platform that enhances collaborative lea
 
 ---
 
-## 🏆 Hackathon Value
-
-* Real-time system design
-* User-focused problem solving
-* Scalable architecture
-* Innovative use of AI and moderation
-
----
 
 ## 🚀 Future Improvements
 
-* Video/audio study rooms
-* Better AI integration
-* User profiles (optional)
-* Advanced recommendation system
+* Add sign in and log in feature
+* AI integration
+* User dashboard
+* Feature to add friends
+* Verification on hosts and sessions
+* Build an application for better accessibility
 
 ---
 
 ## 👨‍💻 Author
+**Team Members**
+* Devansh Singhal
+* Atharv Sharma
+* Ashutosh Pandey
 
-Developed as a hackathon project to demonstrate innovation in collaborative learning and real-time web applications.
 
 ---
 
